@@ -165,7 +165,7 @@ export default function Login({ onBackToLanding }: { onBackToLanding?: () => voi
 
           <div className="mt-8 text-center p-4 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl border border-blue-200/50 backdrop-blur-sm">
             <p className="text-sm text-blue-800 font-medium">
-              <strong>Usuário:</strong> Admin | <strong>Senha:</strong> Admin
+              <strong>Usuário:</strong> Webyte | <strong>Senha:</strong> Webyte
             </p>
           </div>
         </div>
