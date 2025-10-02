@@ -331,8 +331,8 @@ npm run build
 ## 📞 Suporte
 
 ### Contato
-- **Desenvolvedor**: [Seu Nome]
-- **Email**: [seu-email@exemplo.com]
+- **Desenvolvedor**: Júnior Alves
+- **E-mail**: junior@webytebr.com
 - **Documentação**: Este README
 
 ### Problemas Comuns
